@@ -14,7 +14,7 @@
 
 ## VERB TO BE (ser / estar)
 
-| Pronombre | TO BE | TO BE |
+| Pronouns | TO BE | TO BE |
 | -- | -- | -- |
 | I | am | I'm |
 | You | are | You're |
