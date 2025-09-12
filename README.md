@@ -17,16 +17,13 @@
 
 ## Programa
 
-| Unidad | Contenido | Ejercicios/Ejemplos |
-| -- | -- | -- |
-| 01 | [Lógica Proposicional](doc/01-proposicional-contenido.md) | [Ejercicios](doc/01-proposicional-ejercicios.md) |
-| 02 | [Lógica de Predicados](doc/02-predicados-contenido.md)    | [Ejercicios](doc/02-predicados-ejercicios.md)    |
-| 03 | Programación Lógica                                       | [Ejemplos](proy/lenguaje-prolog/)                |  
-| 04 | [Verificación Formal de Programas](doc/04-verificación-formal-contenido.md) | [Ejercicios](doc/04-verificación-formal-ejercicios.md)  |
-| 05 | Sistemas Expertos                                         | [Ejemplos](proy/sistemas-expertos/)              |
-| 05 | Agentes Inteligentes                                      | [Ejemplos](proy/agentes-inteligentes/)           |
-| 05 | Redes Neuronales                                          | [Ejemplos](proy/rna/)                            |
-| 05 | Algoritmos Genéticos                                      | [Ejemplos](proy/algoritmos-geneticos/)           |
+| Unidad | Contenido                                                       | Ejercicios/Ejemplos                                     |
+| --     | --                                                              | --                                                      |
+| 01     | [Lógica Proposicional](doc/01-proposicional-contenido.md)       | [Ejercicios](doc/01-proposicional-ejercicios.md)        |
+| 02     | [Lógica de Predicados](doc/02-predicados-contenido.md)          | [Ejercicios](doc/02-predicados-ejercicios.md)           |
+| 03     | [Programación Lógica](https://github.com/ppandomail/lp/blob/main/doc/03-logico.ipynb) | [Ejercicios](https://github.com/ppandomail/lp/blob/main/tps/03-logico.ipynb) |  
+| 04     | [Verif Formal de Prog](doc/04-verificación-formal-contenido.md) | [Ejercicios](doc/04-verificación-formal-ejercicios.md)  |
+| 05     | Introducción IA                                                 | [Ejemplos](proy/)                                       |
 
 ## Bibliografía
 
